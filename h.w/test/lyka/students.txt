@@ -1,0 +1,2 @@
+110299,Dol,menglong,31/12/2005,Male,Bunteay chey,chhay,channy,Telecommunications and Networking,TN,500.00
+110298,Kim,Seyha,12/04/2006,Male,Bakheng,Pu kim,channy,Computer Science,SE,500.00
